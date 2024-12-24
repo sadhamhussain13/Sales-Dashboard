@@ -1,4 +1,4 @@
-# Excel Sales Dashboard Project
+# Interactive Sales Performance Dashboard in Excel
 
 ## Overview
 This project features an interactive Excel dashboard that provides insights into sales performance across various dimensions. The dashboard includes visual representations and metrics for:
